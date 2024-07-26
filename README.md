@@ -6,7 +6,7 @@
 
 Just My Socks于2018年10月推出，是一家高品质的SS/V2Ray机场，隶属于搬瓦工的母公司，因此被称为搬瓦工官方机场。不仅适用于初学者，对于需要进行远程SOHO办公、科研甚至外贸的用户来说，Just My Socks 是一个非常不错的选择，性价比极高。目前，Just My Socks 已经支持SS/VMess协议，更具抗封锁性，速度也更为稳定。
 
-众所周知，游戏加速器通常使用SS/SSR协议进行传输，因此 Just My Socks 也是一款出色的游戏加速器。特别是其位于日本东京、中国香港和英国伦敦的服务器节点，延迟低、速度稳定。v2ray 协议目前不支持 UDP，Shadowsocks：除 Los Angeles-100 外，所有计划都支持 UDP。111
+众所周知，游戏加速器通常使用SS/SSR协议进行传输，因此 Just My Socks 也是一款出色的游戏加速器。特别是其位于日本东京、中国香港和英国伦敦的服务器节点，延迟低、速度稳定。v2ray 协议目前不支持 UDP，Shadowsocks：除 Los Angeles-100 外，所有计划都支持 UDP。1111
 
 关于ChatGPT，Shadowsocks 服务器（s1、s2）：截至 2023 年 5 月 3 日，现在拥有完整的 ChatGPT 功能。v2ray 服务器（s3、s4、s5、s801）：拥有完整的 ChatGPT 功能。
 
